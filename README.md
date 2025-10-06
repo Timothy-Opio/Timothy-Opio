@@ -2,13 +2,13 @@
 
 ### 💻 IT Specialist | Certified Business Trainer | Team Lead @ Kyusa
 
-I am an IT Specialist and Certified Business Trainer based in Kampala, Uganda, dedicated to **bridging the digital divide** for youth in underserved communities.
+I am an IT Specialist and Certified Business Trainer & Mentor based in Kampala, Uganda, dedicated to **bridging the digital divide** for youth in underserved communities.
 
 My work sits at the intersection of **IT administration, monitoring & evaluation (M&E), and community development**. As the Team Lead for the **Kyusa Fast Track Program**, I design and deploy hybrid learning models and technical infrastructure to equip young people (aged 15–25) with essential **digital literacy, soft skills, and employable IT competencies**.
 
 ---
 
-## 🌟 My GDE Focus: Digital Enablement & Google Workspace
+## 🌟 My GDE Focus: Digital Enablement, AI & Google Workspace
 
 I am working towards becoming a Google Developer Expert by leveraging Google tools to scale non-profit and educational impact. My focus is on creating **scalable, low-cost digital solutions** for youth empowerment programs.
 
@@ -20,9 +20,8 @@ I am working towards becoming a Google Developer Expert by leveraging Google too
 
 ---
 
-## 🚀 Pinned Repositories (To be Created)
+## 🚀 Repositories
 
-These repositories should be pinned to the top of your GitHub profile to immediately show your expertise and GDE alignment.
 
 | Repository Name | Description & Tech |
 | :--- | :--- |
@@ -42,7 +41,7 @@ These repositories should be pinned to the top of your GitHub profile to immedia
 ## 📣 Community & Impact
 
 * **Team Lead, Kyusa Fast Track Program:** Directly responsible for the digital empowerment of hundreds of Ugandan youth.
-* **Mentor:** Certified Mentor with the Global Mentorship Initiative.
+* **Mentor:** Certified Mentor with the Global Mentorship Initiative and Kyusa.
 * **Trainer:** Conduct and design practical, skills-based training in both urban and rural communities.
 
 **Connect with me:** [LinkedIn: Timothy Opio](https://www.linkedin.com/in/timothy-opio-90327b224) | Email: opiotimothytmy256@gmail.com
