@@ -20,7 +20,7 @@ I am working towards becoming a Google Developer Expert by leveraging Google too
 
 ---
 
-## 🚀 Repositories
+<!--## 🚀 Repositories
 
 
 | Repository Name | Description & Tech |
@@ -31,7 +31,7 @@ I am working towards becoming a Google Developer Expert by leveraging Google too
 | **`basic-html-css-projects`** | Small, instructional projects used in my training sessions to teach foundational web development skills to youth. |
 
 ---
-
+-->
 ## 🛠️ Skills & Certifications
 
 * **IT & Administration:** System Setup and Maintenance, Network Support, Monitoring & Evaluation (M&E) Systems.
